@@ -183,7 +183,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22697167?v=4",
       "profile": "https://luxurycoop.tistory.com/",
       "contributions": [
-        "example"
+        "example",
+        "bug"
       ]
     },
     {
@@ -192,7 +193,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/97427878?v=4",
       "profile": "https://github.com/PersesTitan",
       "contributions": [
-        "platform"
+        "platform",
+        "bug"
+      ]
+    },
+    {
+      "login": "kongchu2",
+      "name": "JunHyeok Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48686444?v=4",
+      "profile": "http://codeup.kr/userinfo.php?user=qwerty5233",
+      "contributions": [
+        "doc"
       ]
     }
   ],
